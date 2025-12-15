@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+.cancel-button {
+    background-color: #cccccc;
+    padding: 10px 20px;
+    color: black;
+    border-radius: 6px;
+    cursor: pointer;
+    border: 3px solid red;
+}
